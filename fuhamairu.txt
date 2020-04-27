@@ -1,0 +1,10 @@
+giruedi-phi   grandad
+giruedi-emihi grandma
+pihi          father
+emihi         mom
+tieniti       aunt
+onisieri      uncle
+sioesaini     female cousin
+sioesain      male cousin
+fuhehai       brother
+esaoyoha      sister

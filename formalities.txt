@@ -1,0 +1,12 @@
+Hello           Konnichiwa
+Good Morning    Bonjour          Bionijieru
+Good Afternoon  Bonne Apres-Midi Bioni apierus-midi
+Good Evening    Bonsoir          Bionisieru
+Good Night      Bonne Nuit       Bioniti
+
+Please give me  Kudasai
+Can you do it?  Dekimasu ka
+Can you say it? Hanasemasu ka
+
+My name is      Mon nam est      Watash no namae ha
+Your name is    Ton nam est      Anata wa onamae wa

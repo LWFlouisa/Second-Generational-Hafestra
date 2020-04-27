@@ -1,0 +1,16 @@
+Ruh piyoeru               The Chicken
+Ruh biyoi                 The Beef
+Ruh piyoerusi             The Porc
+Ruh agienaryo             The Lamb
+Ruh piyoiesa              The Fish
+Ruh piyoeru               The Octopus
+Ruh ceruvierti            The Shrimp
+Ruh fuesaiyon dii vinidi  The meat fusion
+Yona piyoeru              The Chicken
+Yona biyoi                The Beef
+Yona piyoerusi            A Porc
+Yona agienaryo            A Lamb
+Yona piyoiesa             A Fish
+Yona piyoeru              An Octopus
+Yona ceruvierti           A Shrimp
+Yona fuesaiyon dii vinidi A meat fusion

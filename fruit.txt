@@ -1,0 +1,14 @@
+Ruh Pioma            The Apple
+Rah Bienaneh         The Banana
+Ruh Sitehao          The Lemon
+Ruh Sitehao Viuditi  The Lime
+Ruh orenji           The Orange
+Ruh Kiwi             The Kiwi
+Ruh Cantaloup        The Cantaloup
+Yona Pioma           An Apple
+Yonei Bienaneh       A Banana
+Yona Sitehao         A Lemon
+Yona Sitehao Viuditi A Lime
+Yona Orenji          An Orange
+Yona Kiwi            A Kiwi
+Yona Cantoloup       A Cantoloup
