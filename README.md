@@ -5,26 +5,23 @@
 
 RUH MEYA DII JIESU ( O Raphael Timeline )
 
-Pieru maye Mierua, sisi rah maye dii Jiesu.
-Vio avieru eyah ini ruh siupieru dii ruh eau.
-Vio avieru eyah ini ruh mionitagi.
-Vio avieru eyah ini ruh a rah maye dii Jiesu.
+Pieru maye Mierua, sisi rah maye dii Jiesu.<br />
+Vio avieru eyah ini ruh siupieru dii ruh eau.<br />
+Vio avieru eyah ini ruh mionitagi.<br />
+Vio avieru eyah ini ruh a rah maye dii Jiesu.<br />
 
-Arigato gozaimase rah maye.
-Arigato gozaimase rah maye dii jiesu.
-Pieru maye, hanasemasu ka?
+Arigato gozaimase rah maye.<br />
+Arigato gozaimase rah maye dii jiesu.<br />
+Pieru maye, hanasemasu ka?<br />
 
-Pieru enitieru ruh diexi, ciesi ruh maye dii Jiesu.
-Vio avieru eyah ini ruh siupieru dii ruh eau.
-Vio avieru eyah ini ruh mionitagi.
-Vio avieru eyah ini rah girochin.
+Pieru enitieru ruh diexi, ciesi ruh maye dii Jiesu.<br />
+Vio avieru eyah ini ruh siupieru dii ruh eau.<br />
+Vio avieru eyah ini ruh mionitagi.<br />
+Vio avieru eyah ini rah girochin.<br />
 
-Arigato gozaimase rah maye.
-Arigato gozaimase rah maye dii jiesu.
-Pieru maye, hanasemasu ka?
+Arigato gozaimase rah maye.<br />
+Arigato gozaimase rah maye dii jiesu.<br />
+Pieru maye, hanasemasu ka?<br />
 
-Aviesi yona biogi pieru ruh mieruti.
-Pieru meya Madieru, ciesi ruh maye dii Jiesu.
-
-# Second-Generational-Hafestra
-A presently primary literary constructed language.
+Aviesi yona biogi pieru ruh mieruti.<br />
+Pieru meya Madieru, ciesi ruh maye dii Jiesu.<br />
