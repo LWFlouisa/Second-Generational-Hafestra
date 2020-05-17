@@ -2,7 +2,8 @@
 [La Mere De Jesus](https://video.ploud.jp/videos/watch/794a5d2e-9fdb-4b0d-9178-e83cd91aaf17)
 
 # Older Version ( More like French. )
-Early Hafestra: https://hafestrahandbook.glitch.me/
+Early Hafestra: https://hafestrahandbook.glitch.me/<br />
+Modern Hafestra: https://personaljournal.ca/hafestra-conlang/<br />
 
 # Related Song
 
